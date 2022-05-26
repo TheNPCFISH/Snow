@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+SnowForPython.egg-info/PKG-INFO
+SnowForPython.egg-info/SOURCES.txt
+SnowForPython.egg-info/dependency_links.txt
+SnowForPython.egg-info/top_level.txt
