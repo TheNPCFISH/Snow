@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='SnowForPython',
-    version='0.1',    
+    version='0.1.0',    
     description='A package for using Snow datastores in python.',
     url='https://github.com/TheNPCFISH/SnowForPython',
     author='NPCFISH',
