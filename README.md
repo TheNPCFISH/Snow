@@ -7,7 +7,8 @@ To make a new list, create a new file. For example:
 nameofthelist.snow
 ```
 ### List of functions
-You don't have to type "nameoflist.snow". Only "nameoflist"
+You don't have to type "nameofthelist.snow". Only "nameofthelist"
+But now I'll show you some examples too with list called "test"
 - addToList(text, listName) *add text to the list*
 
       addToList("Hello world", "test")
