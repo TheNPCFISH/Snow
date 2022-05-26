@@ -1,6 +1,14 @@
 # Snow
 Snow is datastore (for Python now).
 
+## Installation
+To install SnowForPython, you need to have Pip.
+Type this in terminal to install:
+
+`$ pip install SnowForPython`
+or
+`pip install SnowForPython`
+
 ## How to use
 To make a new list, create a new file. For example:
 ```
