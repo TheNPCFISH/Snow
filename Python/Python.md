@@ -15,16 +15,16 @@ But now I'll show you some examples too with list called "test"
 - addToList(text, listName) *add text to the list*
 
       addToList("Hello world", "test")
-- lengthOfList(listName) *get a number*
+- getLineCount(listName) *get a number*
 
-      if lengthOfList("test") == 10:
-        print("Length of my "test" list is 10!")
+      if getLineCount("test") == 10:
+        print("Length of my list is 10!")
 - printList(listName) *print the whole list*
 
       printList("test")
 - deleteFromList(text, listName) *delete text from the list*
 
-      deleteFromList("Hello world", "test"
+      deleteFromList("Hello world", "test")
 - clearList(listName) *clears the whole list (it will stay on your computer)*
 
       clearList("test")
@@ -38,6 +38,10 @@ But now I'll show you some examples too with list called "test"
 - deleteLine(lineNumber, listName) *deletes line*
 
       deleteLine(5, "test")
+      or
+      deleteLine("5.1", "test")
 - getLineContent(line, listName) *gets line content*
 
       print(getLineContent(4, "test"))
+
+*btw semicolon starts a new line*
